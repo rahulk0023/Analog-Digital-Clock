@@ -74,10 +74,11 @@ Use **Live Server** in VS Code.
 
 ---
 
-## 📸 Screenshot
+## 📸 Project Screenshot
 
-![Analog & Digital Clock Screenshot](images/clock.png)
-
+<p align="center">
+  <img src="images/clock.png" alt="Analog & Digital Clock" width="600">
+</p>
 ---
 
 ## ⚙️ How It Works
