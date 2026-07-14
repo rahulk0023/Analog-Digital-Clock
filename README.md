@@ -76,23 +76,7 @@ Use **Live Server** in VS Code.
 
 ## 📸 Screenshot
 
-Add a screenshot of your project inside a folder named:
-
-```
-images/
-```
-
-Example:
-
-```
-images/clock.png
-```
-
-Then display it like this:
-
-```markdown
-![Project Screenshot](images/clock.png)
-```
+![Analog & Digital Clock Screenshot](images/clock.png)
 
 ---
 
