@@ -77,7 +77,7 @@ Use **Live Server** in VS Code.
 ## 📸 Project Screenshot
 
 <p align="center">
-  <img src="images/clock.png" alt="Analog & Digital Clock" width="600">
+  <img src="images/clock.png" alt="Analog & Digital Clock" width="500">
 </p>
 ---
 
